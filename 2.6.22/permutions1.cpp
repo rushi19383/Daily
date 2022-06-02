@@ -114,4 +114,5 @@ int main(){
     cin>>nboxes>>ritems;
     vector<int>boxes(nboxes);
     permutations(boxes,1,ritems);
+    return 0;
 }
